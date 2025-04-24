@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/xtls/libxray/nodep"
+	"github.com/m-logique/libxray/nodep"
 	"github.com/xtls/xray-core/app/router"
 	"github.com/xtls/xray-core/infra/conf"
 	"google.golang.org/protobuf/proto"

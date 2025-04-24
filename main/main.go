@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"time"
 
-	libXray "github.com/xtls/libxray"
-	"github.com/xtls/libxray/nodep"
+	libXray "github.com/m-logique/libxray"
+	"github.com/m-logique/libxray/nodep"
 )
 
 func ensureDir(dir string) error {

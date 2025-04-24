@@ -4,7 +4,7 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/xtls/libxray/memory"
+	"github.com/m-logique/libxray/memory"
 	"github.com/xtls/xray-core/common/cmdarg"
 	"github.com/xtls/xray-core/core"
 	_ "github.com/xtls/xray-core/main/distro/all"

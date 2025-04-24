@@ -1,7 +1,7 @@
 package xray
 
 import (
-	"github.com/xtls/libxray/nodep"
+	"github.com/m-logique/libxray/nodep"
 )
 
 // Ping Xray config and find the delay and country code of its outbound.

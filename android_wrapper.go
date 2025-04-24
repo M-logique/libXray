@@ -3,8 +3,8 @@
 package libXray
 
 import (
-	c "github.com/xtls/libxray/controller"
-	"github.com/xtls/libxray/dns"
+	c "github.com/m-logique/libxray/controller"
+	"github.com/m-logique/libxray/dns"
 )
 
 type DialerController interface {
